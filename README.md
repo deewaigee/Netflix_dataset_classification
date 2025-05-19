@@ -2,6 +2,10 @@
 
 A data mining project using Python and Jupyter Notebook. Follows the KDD process with data preprocessing and classification using DT, SVM, KNN, and NB. Includes training/testing split and cross-validation for performance evaluation.
 
+## Known Issues
+- Some cells in the notebook might produce errors due to missing dependencies or data inconsistencies.
+- I’m working on fixing these and welcome feedback or suggestions!
+
 ## Project Overview
 This project performs classification on the Netflix dataset using Python in Jupyter Notebook. It follows the Knowledge Discovery in Databases (KDD) process, including data preprocessing, handling missing values and duplicates, and applying four classifiers: Decision Tree (DT), Support Vector Machine (SVM), K-Nearest Neighbors (KNN), and Naive Bayes (NB). The dataset is split into training and testing sets using cross-validation for performance evaluation.
 
